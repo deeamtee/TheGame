@@ -23,7 +23,7 @@ public class Game implements Runnable {
     public static final float	UPDATE_INTERVAL	= Time.SECOND / UPDATE_RATE;
     public static final long	IDLE_TIME		= 1;
 
-    public static final String	ATLAS_FILE_NAME	= "General_Sprites.png";
+    public static final String	ATLAS_FILE_NAME	= "General_Sprites_CLEAR.png";
 
     private boolean				running;
     private Thread				gameThread;
